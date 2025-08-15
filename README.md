@@ -1,9 +1,9 @@
-#🐱🐶 Cat-Dog Image Classification
+# 🐱🐶 Cat-Dog Image Classification
 
 A deep learning project that classifies images as either Cat or Dog using Convolutional Neural Networks (CNN).
 This project demonstrates end-to-end image classification, from data preprocessing to model training, evaluation, and prediction.
 
-#📌 Features
+# 📌 Features
 
 Classifies images into Cat or Dog categories.
 
@@ -15,7 +15,7 @@ Achieves high accuracy on the test dataset.
 
 Supports custom image prediction.
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python 3
 
@@ -28,7 +28,7 @@ Matplotlib, Seaborn
 OpenCV (for image handling)
 
 
-#📊 Model Architecture
+# 📊 Model Architecture
 
 Input Layer → Image size (e.g., 128x128x3)
 
